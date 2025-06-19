@@ -1,0 +1,29 @@
+.menu_bg{
+  background-color:black!important;
+   padding: 10px 0 !important;
+  
+}
+.menu_bg a{
+  color:#fff !important;
+  margin-left: 48px;
+ 
+}
+.btn1{
+  border: 1px solid #FFD2A4 ;
+  background-color: #FFD2A4;
+  padding: 10px 10px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.btn1 a{
+  color:black;
+  text-decoration: none;
+  padding: 0 5px;
+  margin-left: 0px !important;
+  text-align: center !important;
+  
+
+}

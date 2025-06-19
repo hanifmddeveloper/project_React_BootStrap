@@ -1,0 +1,46 @@
+
+.banner{
+  background: url(../../assets/BanImage.jpg) no-repeat center / cover;
+  padding: 200px 0 !important;
+    
+}
+/* .banner{
+  width: 100%;
+} */
+h5{
+    color: #FFFFFF !important;
+    font-size: 16px !important;
+    font-weight: 700 !important;
+}
+h1{
+    color: #FFFFFF !important;
+    font-size: 64px !important;
+    line-height: 82px !important;
+    font-weight: 700 !important;
+    width: 600px !important;
+    letter-spacing: -1%;
+    
+}
+.btn2{
+  background-color: #FFD2A4;
+  padding: 10px 30px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.btn2 a{
+  color:black;
+  text-decoration: none;
+}
+p{
+    margin-top: 64px !important;
+    color: #FFFFFF !important;
+    font-size: 16px !important;
+    line-height: 24px !important;
+    font-weight: 400 !important;
+    /* width: 600px !important; */
+    letter-spacing: 0%;
+    
+}

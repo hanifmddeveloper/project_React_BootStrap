@@ -1,0 +1,80 @@
+
+
+.subhead2{
+    padding: 128px 0 !important;
+   
+}
+
+.sub2btn{
+    border: 2px solid #FFD2A4;
+    background-color: #FFD2A4;
+    padding: 10px 20px;
+    margin-top: 40px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.sub2btn a{
+    text-decoration: none;
+    font-family: "Roboto Condensed", sans-serif;
+    color: black;
+    
+}
+.sub2t{
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: black !important;
+   
+}
+
+.tex1 h4{
+     font-family: "Roboto Condensed", sans-serif;
+    font-size: 16px;
+    line-height: 100%;
+    font-weight: 400;
+    color: black !important; 
+
+}
+
+
+.tex2 h2{
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 48px;
+    line-height: 64px;
+    font-weight: 700;
+    color: black !important;
+
+}
+.tex5 h4{
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 16px;
+    line-height: 100%;
+    font-weight: 400;
+    color: black !important;
+
+}
+.tex6 h2{
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 32px;
+    line-height: 44px;
+    font-weight: 700;
+    color: black !important;
+    margin-top: 30px;
+
+}
+.sub2t2{
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: black !important;
+    margin-left: 190px;
+   }
+.Read{
+    text-decoration: none;
+    color: black !important;
+}

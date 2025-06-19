@@ -1,0 +1,53 @@
+.serOutPart{
+    background: url(../../assets/serveBackground.jpg)no-repeat center / cover;
+    padding: 300px 0;
+    
+.serInnerPart{
+    background-color: #fff;
+    width: 50% !important;
+    height: 90% !important;
+    margin-left: 370px;
+   
+   
+}
+}
+.serbtn{
+    display: inline-block !important;
+    border: 2px solid #FFD2A4;
+    background-color: #FFD2A4;
+    color: black;
+    text-decoration: none !important;
+    padding: 10px 30px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.serbtn a{
+    text-decoration: none !important;
+    color:black;
+}
+.servePart{
+    width: 30%;
+}
+.servePart{
+    margin-right: 20px;
+}
+
+.serInnerPart h2{
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 48px;
+    line-height: 64px;
+    font-weight: 700;
+    letter-spacing: -1%;
+    color: black !important;
+}
+.serInnerPart p{
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    letter-spacing: 0%;
+    color: black !important;
+}
