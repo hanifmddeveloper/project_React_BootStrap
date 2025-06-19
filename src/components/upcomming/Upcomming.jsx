@@ -18,7 +18,7 @@ const Upcomming = () => {
        <Row>
         <Col lg={4}>
         <div className='upcomeleft'>
-        <div><h4>"20"<br>"JULY"</br></h4>
+        <div><h4>"20"<br/>"JULY"</h4>
         <h6>Upcoming Event</h6>
         <h2>WATCH AND LISTEN TO OUR SERMONS</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
@@ -28,7 +28,7 @@ const Upcomming = () => {
             <a href='#'> </a>
           </div>
           <div className='up_datetext'>
-            <p>"Friday 23:39 IST Saturday 11:20 ISD" <br> "No 233 Main St. New York, United States"</br></p>
+            <p>"Friday 23:39 IST Saturday 11:20 ISD" <br/> "No 233 Main St. New York, United States"</p>
           </div>
         </div>
         
