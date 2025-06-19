@@ -19,11 +19,9 @@
   -o-border-radius: 10px;
 }
 .btn1 a{
-  color:black;
+  color: black !important;;
   text-decoration: none;
   padding: 0 5px;
   margin-left: 0px !important;
   text-align: center !important;
-  
-
 }

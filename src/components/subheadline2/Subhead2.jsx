@@ -3,6 +3,7 @@ import { Container,Row,Col } from 'react-bootstrap'
 import Man from "../../assets/sub2Man.png"
 import Women from "../../assets/sub2Women.png"
 import Womenold from "../../assets/sub2Women2.png"
+import { FaLongArrowAltRight } from "react-icons/fa";
 import "./subhead2.css"
 
 const Subhead2 = () => {
@@ -43,7 +44,7 @@ const Subhead2 = () => {
             <h4 className='mt-5 text5'>OUR MISSION & VISION</h4>
             <h2 className=' mt-5 tex6'>CELEBRATE WITH US</h2>
             <p className='sub2t2'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            <a href='#' className='Read'>Read More</a>
+            <a href='#' className='Read'>Read More <FaLongArrowAltRight /></a>
         </div>
        </Row>
       

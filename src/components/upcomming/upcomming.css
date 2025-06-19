@@ -30,6 +30,10 @@
     padding: 20px;
     
 }
+.upcomeleft h5{
+  text-align: end;
+  color: #161722 !important;
+}
 .upcomeleft h2{
     font-family: "Roboto Condensed", sans-serif;
     font-size: 24px;
@@ -67,7 +71,7 @@
     letter-spacing: 0px;
     color:#161722!important;
     text-align: end; 
-    padding-top: 30px;
-    padding-left: 40px !important;
+    padding-top: 20px;
+ 
 }
 

@@ -1,7 +1,6 @@
 import React from 'react'
 import { Container,Row,Col } from 'react-bootstrap'
 import Icon from "../../assets/Icon1.png";
-
 import "./subhead1.css";
 
 const Subhead1 = () => {

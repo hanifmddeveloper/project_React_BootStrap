@@ -19,10 +19,10 @@ const Watch = () => {
     </div>
     </Col>
     </Row>
-   <Row>
+   <Row >
     <Col lg={3}>
-     <div className='watch_img'>
-        <img src={Watchimg1} alt=''/>
+     <div className='watch_img '>
+        <img className='w-full img-fluid' src={Watchimg1} alt=''/>
         <div className='Watch_text'>
         <h3>WATCH AND LISTEN TO OUR SERMONS</h3>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut.</p>
@@ -31,7 +31,7 @@ const Watch = () => {
       </Col>
       <Col lg={3}>
      <div className='watch_img'>
-        <img src={Watchimg2} alt=''/>
+        <img className='w-full img-fluid' src={Watchimg2} alt=''/>
         {/* <div className='Watch_text'>
         <h3>WATCH AND LISTEN TO OUR SERMONS</h3>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut.</p>
@@ -40,7 +40,7 @@ const Watch = () => {
       </Col>
       <Col lg={3}>
      <div className='watch_img'>
-        <img src={Watchimg3} alt=''/>
+        <img className='w-full img-fluid' src={Watchimg3} alt=''/>
         {/* <div className='Watch_text'>
         <h3>WATCH AND LISTEN TO OUR SERMONS</h3>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut.</p>
@@ -49,7 +49,7 @@ const Watch = () => {
       </Col>
       <Col lg={3}>
      <div className='watch_img'>
-        <img src={Watchimg4} alt=''/>
+        <img className='w-full img-fluid' src={Watchimg4} alt=''/>
         {/* <div className='Watch_text'>
         <h3>WATCH AND LISTEN TO OUR SERMONS</h3>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut.</p>

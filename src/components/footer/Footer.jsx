@@ -1,7 +1,9 @@
 import React from 'react'
 import { Container,Row,Col } from 'react-bootstrap'
 import Flogo from "../../assets/footerLogo.png"
-// import { FaFacebook } from "react-icons/fa";
+import { FaFacebook } from "react-icons/fa";
+import { FaTwitter } from "react-icons/fa";
+import { CiLinkedin } from "react-icons/ci";
 import "./footer.css"
 
 const Footer = () => {
@@ -12,10 +14,10 @@ const Footer = () => {
         <Col lg={2}>
         <div className='fleftText'>
           <img src={Flogo} alt=''/>
-          <h4>© Copyright Finsweet 2022</h4>
+          <h3>@Copyright Finsweet 2022</h3>
           <h6>(480) 555-0103</h6>
           <h6>4517 Washington Ave. </h6>
-          <h6>finsweet@example.com</h6>
+          <h5>finsweet@example.com</h5>
           </div>
         </Col>
         <Col lg = {{span:1,offset:2}}>
@@ -31,21 +33,15 @@ const Footer = () => {
         <div className='footericon'>
           <h5>Connect </h5>
         <div className='fIcon_main'>
-         {/* <div className='fIcon1'>
-         <a href='#'>
-          <a href='#'><FaFacebook /></a>
-         </a>
-         </div>
          <div className='fIcon1'>
-         <a href='#'>
-          <a href='#'><FaFacebook /></a>
-         </a>
+         <a href='#'><FaFacebook /></a>
          </div>
-         <div className='fIcon1'>
-         <a href='#'>
-          <a href='#'><FaFacebook /></a>
-         </a>
-         </div> */}
+         <div className='tIcon1'>
+         <a href='#'><FaTwitter /></a>
+         </div>
+         <div className='lIcon1'>
+          <a href='#'><CiLinkedin /></a>
+          </div>
         </div>
         </div>
        </Col>

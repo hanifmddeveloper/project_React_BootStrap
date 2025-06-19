@@ -1,6 +1,7 @@
 import React from 'react'
 import { Container,Row,Col } from 'react-bootstrap'
 import Upimg1 from "../../assets/Upimg1.jpg"
+import { FaLongArrowAltRight } from "react-icons/fa";
 import "./upcomming.css"
 const Upcomming = () => {
   return (
@@ -18,7 +19,7 @@ const Upcomming = () => {
        <Row>
         <Col lg={4}>
         <div className='upcomeleft'>
-        <div><h4>"20"<br/>"JULY"</h4>
+        <div><h5>20<br/>JULY</h5>
         <h6>Upcoming Event</h6>
         <h2>WATCH AND LISTEN TO OUR SERMONS</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
@@ -28,7 +29,7 @@ const Upcomming = () => {
             <a href='#'> </a>
           </div>
           <div className='up_datetext'>
-            <p>"Friday 23:39 IST Saturday 11:20 ISD" <br/> "No 233 Main St. New York, United States"</p>
+            <p>Friday 23:39 IST Saturday 11:20 ISD <br/> No 233 Main St. New York, United States</p>
           </div>
         </div>
         
@@ -38,7 +39,8 @@ const Upcomming = () => {
         <Col lg={8}>
         <div className='upmore'>
           <img src={Upimg1} alt=''/>
-          <h5>View all Sermons </h5>
+          <h5>View all Sermons<FaLongArrowAltRight /></h5>
+           
         </div>
         </Col>
        </Row>
